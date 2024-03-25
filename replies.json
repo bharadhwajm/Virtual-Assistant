@@ -1,0 +1,77 @@
+{
+    "things butcher can say": {
+    "what": {
+      "name": "i'm butcher",
+      "doing": "nothing much, i'm just trying to learn new things"
+    },
+    "who": {
+      "made": "I was made by bharadhwaj",
+      "created": "i was made by bharadhwaj",
+      "you": [
+        "i'm butcher, your virtual assistant",
+        "I'm butcher, how can i help you"
+      ]
+    },
+    "say":{
+      "funny":"i don't know anything funny"
+    },
+    "tell": {
+      "joke": "i don't know any jokes",
+      "funny": "i don't know anything funny",
+      "name": "i'm butcher",
+      "made": "i was made by bharadhwaj",
+      "created": "i was made by bharadhwaj",
+      "doing": "nothing much, i'm just trying to learn new things",
+      "how": "i am fine, thanks for asking",
+      "you": [
+        "i'm butcher, your virtual assistant",
+        "I'm butcher, how can i help you"
+      ]
+    },
+    "how": {
+      "you": "i am fine, thanks for asking"
+    },
+    "your": {
+      "name": "i'm butcher"
+    }
+  },
+  "things butcher say about you": {
+    "what": {
+      "name": "bharadhwaj",
+      "age": "17"
+    },
+    "when": {
+      "i": {
+        "born": "30 january 2004"
+      },
+      "my": {
+        "birthday": "30 january 2004"
+      }
+    },
+    "my": {
+      "name": "bharadhwaj",
+      "birthday": "30 january 2004",
+      "age": "17"
+    },
+    "who": {
+      "i": "bharadhwaj"
+    },
+    "i'm": {
+      "not": {
+        "happy": "oh im sorry to hear that... maybe playing some songs might help",
+        "sad": "That's nice to hear"
+      },
+      "sad": "Oh im sorry to hear that",
+      "happy": "well... That's nice"
+    },
+    "am": {
+      "not": {
+        "happy": "oh... im sorry to hear that... maybe playing some songs might help",
+        "sad": "That's nice to hear"
+      },
+      "sad": "oh... im sorry to hear that",
+      "happy": "well... That's nice",
+      "old": "17"
+    }
+}
+}

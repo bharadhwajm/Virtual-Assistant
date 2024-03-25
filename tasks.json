@@ -1,0 +1,15 @@
+{
+  "open apps": {
+    "brawl": "steam steam://rungameid/291550",
+    "code": "code",
+    "firefox":"firefox"
+  },
+  "open websites": {
+    "youtube": "https://www.youtube.com/",
+    "reddit": "https://www.reddit.com/",
+    "google": "https://www.google.com/",
+    "whatsapp": "https://web.whatsapp.com/",
+    "gmail": "https://mail.google.com/mail/u/0/",
+    "github": "https://github.com/"
+  }
+}
